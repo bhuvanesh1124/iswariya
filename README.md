@@ -1,7 +1,7 @@
 # iswariya
 <html>
-<body>
 <head><title>BIRTH DAY</title></head>
+<body>
 <hr size=3 noshade>
 <h1><center>ISWARIYA.R</center></h1>
 <hr size=3 noshade>
